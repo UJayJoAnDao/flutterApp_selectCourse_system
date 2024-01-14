@@ -3,8 +3,11 @@
 A new Flutter project.
 高科選課系統
 使用模擬器連接本機端 port 81 進行連接伺服器
+
 伺服端是使用本機 xampp 測試=>port 81
+
 api在localhost:81/Schedule_course/api/
+
 可對學生資料表、科系代碼表、課程資料表、選課資訊表進行CRUD
 
 也就是說 該APP能串接api，對伺服器中的資料庫進行新增、查詢、更新、刪除，並將查詢結果顯示於畫面中。
